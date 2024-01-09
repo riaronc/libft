@@ -1,0 +1,1 @@
+sum(e.data[0] == 1 ? e.data[1] : 0) + sum(e.data[2] == 1 ? e.data[3] : 0)
